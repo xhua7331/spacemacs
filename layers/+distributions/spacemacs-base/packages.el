@@ -538,3 +538,4 @@
       (winner-mode t))))
 
 (defun spacemacs-base/init-centered-buffer-mode ())
+
